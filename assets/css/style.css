@@ -1171,10 +1171,9 @@ html, body {
 
   /* --- THE REST --- */
   .cert-icon {
-    width: 25vw;
+    width: 27vw;
     height: auto;
     filter: drop-shadow(0 0 5px rgba(80, 255, 80, 0.2));
-    
   }
 
   .cert-item.modal-active .cert-info::before {
@@ -1287,6 +1286,21 @@ html, body {
     width: 54px;
     height: 36px;
   }
+  .menu-toggle .bar {
+    width: 54px;
+    height: 3px;
+  }
+  .menu-toggle.active .bar:nth-child(1) {
+    transform: translateY(16.5px) rotate(45deg);
+  }
+  .menu-toggle.active .bar:nth-child(2) {
+    opacity: 0;
+    transform: translateX(30px); /* Slide it out */
+  }
+  .menu-toggle.active .bar:nth-child(3) {
+    transform: translateY(-16.5px) rotate(-45deg);
+  }
+
 
 /* ABOUT SECTION */
   #about {
@@ -1305,11 +1319,12 @@ html, body {
   }
 /* CERTIFICATES SECTION */
   .cert-list {
-    gap: 15px;
+    gap: 10px;
   }
-  .cert-icon {
-      width: 22vw;
-  }
+  #certificates h2 {
+    text-align: left;
+    margin-bottom: 22px;
+}
 }
 
 @media (max-width: 530px) {
@@ -1339,10 +1354,7 @@ html, body {
   }
 /* CERTIFICATES SECTION */
   .cert-list {
-    gap: 15px;
-  }
-  .cert-icon {
-      width: 22vw;
+    gap: 8px;
   }
 }
 
