@@ -50,6 +50,12 @@
   <main>
     <!-- BLOG -->
     <section id="blog">
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <small>({{ post.date | date: "%Y-%m-%d" }})</small>
+        </li>
+        {% endfor %} 
         <article class="blog-post markdown-body" id="post">
             <!-- Markdown content will be dynamically loaded here -->
         </article>
