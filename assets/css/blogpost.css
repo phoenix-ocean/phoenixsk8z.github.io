@@ -304,6 +304,13 @@ section h2 {
 
 /* ========== BLOG ========== */
 /* Blog Post */
+.markdown-body {
+    box-sizing: border-box;
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 900px;
+}
+
 .blog-post {
   background: rgba(16, 16, 16, 0.85);
   border: 1px solid rgba(80, 255, 80, 0.15);
