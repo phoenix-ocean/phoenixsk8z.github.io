@@ -323,6 +323,18 @@ section h2 {
 .blog-post h1 {
   font-size: 2rem;
   margin-bottom: 0.5rem;
+  color: #50ff50;
+}
+
+.blog-post h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+  color: white;
+  font-weight: 600;
+}
+.blog-post h3 strong{
+  font-size: 1.1rem;
+  text-decoration: underline;
 }
 
 .blog-post span {
@@ -341,15 +353,35 @@ section h2 {
 .blog-post h2 {
   font-size: 1.5rem;
   margin: 1.5rem 0 0.5rem 0;
-  color: white;
+  color: #50ff50;
 }
 
+/* BLOG POST LISTS */
+.blog-post ul, .blog-post ol {
+  padding-left: 32px;
+  margin-bottom: 1rem;
+}
+.blog-post li {
+  font-size: 1rem;
+}
+.blog-post li strong{
+  font-size: 1.05rem;
+}
+/* BLOG POST DIVIDERS */
+hr {
+  display: none;
+}
+
+/* BLOG POST TEXT */
 .blog-post p {
   margin-bottom: 1rem;
   font-size: 0.95rem;
 }
+.blog-post p strong {
+  font-size: 1rem;
+}
 
-/* Tags */
+/* BLOG POST LINKS */
 .blog-post {
   margin-top: 2rem;
   font-size: 0.9rem;

@@ -6,7 +6,7 @@ This guide is for anyone who wants **real control over their digital life**, und
 
 ---
 
-## 1. Rethink Surveillance
+## Rethink Surveillance
 
 Surveillance today is **ubiquitous**. It’s not just about law enforcement; corporations, ad networks, and cloud providers are constantly collecting metadata, location data, and behavioral patterns. Examples include:
 
@@ -19,7 +19,7 @@ The first rule of radical privacy: **assume everything can be seen, stored, and 
 
 ---
 
-## 2. Messaging the Extreme Way: Signal, PFS, and Threat Models
+## Messaging the Extreme Way: Signal, PFS, and Threat Models
 
 Signal is widely recommended for privacy because it uses **end-to-end encryption** and **perfect forward secrecy (PFS)**. PFS ensures that even if a key is compromised in the future, past messages remain unreadable.  
 
@@ -39,7 +39,7 @@ Extreme privacy advocates mitigate these risks by combining Signal with:
 
 ---
 
-## 3. GPG: Taking Encryption Seriously
+## GPG: Taking Encryption Seriously
 
 For long-term, high-security communication, **GPG (GNU Privacy Guard)** is essential. Unlike centralized apps, GPG is:
 
@@ -62,7 +62,7 @@ This gives you **control over your digital communications**, even if centralized
 
 ---
 
-## 4. Tor and Decentralized Communication
+## Tor and Decentralized Communication
 
 If Signal and GPG protect content, **Tor and decentralized networks protect metadata**. Tor hides your IP address and traffic patterns, allowing:
 
@@ -74,7 +74,7 @@ Decentralized platforms reduce reliance on a single point of control, limiting t
 
 ---
 
-## 5. The Honeypot Principle
+## The Honeypot Principle
 
 Even trusted privacy tools can become **targets**. Once a platform becomes mainstream, it attracts attention from adversaries. This is the “honeypot” principle: the more people rely on a single tool, the more it becomes **observable, targetable, and compromisable**.  
 
@@ -82,7 +82,7 @@ Decentralization, rotation, and minimal central dependencies are key to staying 
 
 ---
 
-## 6. Operational Security (OPSEC) Matters
+## Operational Security (OPSEC) Matters
 
 Extreme privacy isn’t just software — it’s behavior. OPSEC practices include:
 
@@ -95,7 +95,7 @@ Every interaction online leaves a trace. OPSEC ensures these traces are **intent
 
 ---
 
-## 7. The Radical Privacy Philosophy
+## The Radical Privacy Philosophy
 
 In one sentence:  
 
