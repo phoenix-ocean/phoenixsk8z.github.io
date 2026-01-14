@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Is AI Surveillance a Security Risk? The Truth About Flock Safety"
+title: "Is-AI-Surveillance-a-Security-Risk?"
+date: 2026-01-14
 description: "AI cameras are everywhere, but are they secure? Dive into the technical vulnerabilities of Flock Safety and the slippery slope of modern surveillance."
 ---
 
