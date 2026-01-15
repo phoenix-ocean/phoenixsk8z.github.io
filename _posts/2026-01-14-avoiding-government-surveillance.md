@@ -1,3 +1,10 @@
+---
+layout: post
+title: "avoiding-government-surveillance"
+date: 2026-01-14
+description: "Living Off the Grid Digitally"
+---
+
 # Living Off the Grid Digitally: A Radical Guide to Privacy
 
 In a world where every device, app, and social network silently logs your movements, your communications, and even your habits, privacy has become a luxury. Most people rely on casual measures—VPNs, Signal, or browser privacy settings—but extreme privacy is a **discipline, a strategy, and a mindset**.  

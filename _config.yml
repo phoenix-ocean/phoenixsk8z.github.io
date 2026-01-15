@@ -1,14 +1,16 @@
-title: Phoenix Ocean
-description: Tech, Privacy, and Building the Future.
-baseurl: "" # Leave empty if your site is at the root domain
+title: "Phoenix Ocean"
+description: "Tech, Privacy, and Building the Future."
 url: "https://phoenixocean.live"
+baseurl: "" # Leave empty if your site is at the root domain
 
 # This creates the clean URLs you want: /blog/post-title/
 collections: []
 permalink: /blog/:title/
+markdown: kramdown
 
 # SEO & Optimization Plugins (built into GitHub Pages)
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
