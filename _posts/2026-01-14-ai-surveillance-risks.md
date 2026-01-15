@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "ai"
+title: "The Invisible Net: Is AI Surveillance a Safety Net or a Tripwire?"
 date: 2026-01-14
-description: "AI cameras are everywhere"
+description: "We’ve all seen them: the sleek, solar-powered cameras mounted on neighborhood stop signs or local intersections. In just a few years, **Flock Safety** and similar AI-driven license plate recognition (ALPR) systems have become the 'silent partners' of thousands of police departments and HOAs across the United States."
 ---
 
 
