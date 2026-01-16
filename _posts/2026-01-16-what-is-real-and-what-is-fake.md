@@ -2,7 +2,7 @@
 layout: post
 title: "What Is Real When Everything Can Be Fake?"
 author: "Phoenix Ocean"
-date: 2026-01-15
+date: 2026-01-16
 description: "We’re entering a strange moment in human history where identity — something once tethered to our physical bodies — is becoming spoofable at scale."
 ---
 
